@@ -4,7 +4,7 @@
 
 This project analyzes retail transaction data to uncover key factors influencing customer purchasing behavior, including store types, payment methods, discounts, and promotions. By addressing critical questions around transaction amounts, payment methods, seasonal variations, and promotion effectiveness, the analysis provides valuable insights to inform retail strategies and optimize sales performance. 📈💡
 
-## Tools Used 🛠️
+## Tools Used  🛠️
 
 - **Python**: For data analysis, processing, and manipulation. 🐍
 - **Streamlit**: For deploying an interactive web app to explore insights dynamically. 🌐
